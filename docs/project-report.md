@@ -1,15 +1,5 @@
 # Website Data Scraper Dashboard for Job Listings
 
-## Course
-
-IST 311 – Scripting Languages
-
-## Team
-
-- Kabir Singh
-- Nathan Teshome
-- Brett Cannon
-
 ## Executive Summary
 
 This project developed a web-based dashboard that automates the collection and visualization of job-listing data. The goal was to reduce the inefficiency of manually browsing job boards by gathering, processing, and presenting job data in a structured and interactive format.
