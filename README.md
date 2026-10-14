@@ -2,7 +2,7 @@
 
 A Python and Streamlit project that collects remote job listings from the Remotive public API, stores the results in CSV format, and presents the data in an interactive dashboard.
 
-This repository is based on an IST 311 – Scripting Languages team project by Kabir Singh, Nathan Teshome, and Brett Cannon. The project focused on automating job-data collection and making the results easier to explore through summary metrics, charts, a world map, and a full table.
+This repository is based on a project focused on automating job-data collection and making the results easier to explore through summary metrics, charts, a world map, and a full table.
 
 > The Python files in this portfolio repository are a cleaned reconstruction of the implementation documented in the original course report and code screenshots. They preserve the reported architecture and behavior while improving error handling, organization, and readability.
 
@@ -95,14 +95,6 @@ Streamlit will start the local dashboard and open it in your browser.
 The documented project demo collected 21 job listings across categories including software development, AI/ML, marketing, and customer service. The dashboard made it easier to identify patterns in job locations, companies, and available roles.
 
 The project report noted that many listings in the demo were concentrated in the United States and that location data was not always precise.
-
-## Team Responsibilities
-
-According to the original project report:
-
-- Kabir Singh handled the scraper and dashboard coding.
-- Nathan Teshome tested the script and made adjustments to the dashboard.
-- Brett Cannon handled the presentation and report and also tested the code.
 
 ## Limitations
 
