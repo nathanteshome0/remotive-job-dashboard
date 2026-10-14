@@ -29,14 +29,6 @@ The project was designed to:
 - Analyze and visualize the data
 - Provide an interactive user interface
 
-## Team Responsibilities
-
-According to the original report:
-
-- Kabir handled the scraper and dashboard coding.
-- Nathan tested the script and made adjustments to the dashboard.
-- Brett handled the presentation and report and also tested the code.
-
 ## Analysis and Design
 
 The system followed this data flow:
